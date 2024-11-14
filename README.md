@@ -28,6 +28,9 @@ This Power BI project provides a comprehensive visual analysis of Blinkit's sale
 * **All Metrics by Outlet Type:**
   * Examine sales, items, and ratings by outlet type to understand performance variations across different types of outlets.
 
+# SnapShots
+![SnapShot 1](https://github.com/user-attachments/assets/f49f8a12-86e9-4544-bbe2-9277680b82c7)
+<img width="1327" alt="SnapShort 2" src="https://github.com/user-attachments/assets/2166ff4b-e5b2-4a3f-9cf5-86aa0d7c63a5">
 
 # 🧑🏻‍💻Business Impact of Visual Analysis for Blinkit
 
@@ -64,8 +67,6 @@ This Power BI project provides a comprehensive visual analysis of Blinkit's sale
 * **Executive Summaries:** Present summarized insights to the executive team for quick decision-making and strategic alignment.
 
 
-# SnapShots
-![SnapShot 1](https://github.com/user-attachments/assets/f49f8a12-86e9-4544-bbe2-9277680b82c7)
-<img width="1327" alt="SnapShort 2" src="https://github.com/user-attachments/assets/2166ff4b-e5b2-4a3f-9cf5-86aa0d7c63a5">
+
 
 
